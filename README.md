@@ -26,3 +26,7 @@
 - 더보기를 눌러 입력 폼을 확장할 때 소프트 키보드가 내려간 후 애니메이션 효과가 나타난다.
 - 연락처 상세 화면에서 이름과 전화번호 이외의 정보가 기입되어있을 경우, 추가로 정보를 표시한다.
 
+***
+
+https://github.com/kakao-tech-campus-2nd-step2/android-contacts/pull/19
+
